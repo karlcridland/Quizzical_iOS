@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>733710073642-0fl9nm4oi109nr5pobho5i9nuqu8hgj8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.733710073642-0fl9nm4oi109nr5pobho5i9nuqu8hgj8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_pxsNlFNZsHNu5ITIUPQHbowipXGHrAQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>733710073642</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>quizzical.karl-cridland</string>
+	<key>PROJECT_ID</key>
+	<string>quizzical-karl</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quizzical-karl.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:733710073642:ios:c92a2fa19fa6cae3b36853</string>
+	<key>DATABASE_URL</key>
+	<string>https://quizzical-karl.firebaseio.com</string>
+</dict>
+</plist>
